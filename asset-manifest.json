@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PRKJewellers/static/css/main.30d9a094.chunk.css",
-    "main.js": "/PRKJewellers/static/js/main.425cd102.chunk.js",
-    "main.js.map": "/PRKJewellers/static/js/main.425cd102.chunk.js.map",
+    "main.css": "/PRKJewellers/static/css/main.74033e33.chunk.css",
+    "main.js": "/PRKJewellers/static/js/main.e4505a9a.chunk.js",
+    "main.js.map": "/PRKJewellers/static/js/main.e4505a9a.chunk.js.map",
     "runtime-main.js": "/PRKJewellers/static/js/runtime-main.705c2221.js",
     "runtime-main.js.map": "/PRKJewellers/static/js/runtime-main.705c2221.js.map",
     "static/js/2.8f852c5c.chunk.js": "/PRKJewellers/static/js/2.8f852c5c.chunk.js",
     "static/js/2.8f852c5c.chunk.js.map": "/PRKJewellers/static/js/2.8f852c5c.chunk.js.map",
     "index.html": "/PRKJewellers/index.html",
-    "static/css/main.30d9a094.chunk.css.map": "/PRKJewellers/static/css/main.30d9a094.chunk.css.map",
+    "static/css/main.74033e33.chunk.css.map": "/PRKJewellers/static/css/main.74033e33.chunk.css.map",
     "static/js/2.8f852c5c.chunk.js.LICENSE.txt": "/PRKJewellers/static/js/2.8f852c5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.705c2221.js",
     "static/js/2.8f852c5c.chunk.js",
-    "static/css/main.30d9a094.chunk.css",
-    "static/js/main.425cd102.chunk.js"
+    "static/css/main.74033e33.chunk.css",
+    "static/js/main.e4505a9a.chunk.js"
   ]
 }
