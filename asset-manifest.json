@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PRKJewellers/static/css/main.30d9a094.chunk.css",
-    "main.js": "/PRKJewellers/static/js/main.632a6c19.chunk.js",
-    "main.js.map": "/PRKJewellers/static/js/main.632a6c19.chunk.js.map",
+    "main.js": "/PRKJewellers/static/js/main.425cd102.chunk.js",
+    "main.js.map": "/PRKJewellers/static/js/main.425cd102.chunk.js.map",
     "runtime-main.js": "/PRKJewellers/static/js/runtime-main.705c2221.js",
     "runtime-main.js.map": "/PRKJewellers/static/js/runtime-main.705c2221.js.map",
     "static/js/2.8f852c5c.chunk.js": "/PRKJewellers/static/js/2.8f852c5c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.705c2221.js",
     "static/js/2.8f852c5c.chunk.js",
     "static/css/main.30d9a094.chunk.css",
-    "static/js/main.632a6c19.chunk.js"
+    "static/js/main.425cd102.chunk.js"
   ]
 }
